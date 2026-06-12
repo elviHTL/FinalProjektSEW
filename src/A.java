@@ -1,1 +1,0 @@
-git checkout elvi-dev git add . git commit -m "Elvi: MainApp, PVModule, PVCalculator, PVRechnerView hinzugefügt" git push FinalProjektSEW elvi-dev 
